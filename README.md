@@ -2,4 +2,5 @@
 command in README.file
 
 $ yes (text)
+
 example: yes hahhaha
